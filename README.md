@@ -1,4 +1,4 @@
-# 🐢 TurtleBot3 Burger + ROS2 Humble — 3주 완성 커리큘럼 (Jetson Orin Nano Edition)
+# 🐢 TurtleBot3 Burger + ROS2 Humble
 
 > **Jetson Orin Nano** 환경에서 ROS2 Humble을 구축하고, TurtleBot3 Burger를 제어하며 SLAM/네비게이션/Edge AI까지 마스터하는 3주 집중 코스
 
@@ -6,7 +6,7 @@
 
 ## 📋 개요
 
-이 커리큘럼은 **TurtleBot3 Burger** 로봇에 **NVIDIA Jetson Orin Nano (8GB/16GB)**를 SBC로 탑재하고, **ROS2 Humble Hawksbill** 환경에서 최종 프로젝트까지 완성하는 것을 목표로 합니다.
+이 커리큘럼은 **TurtleBot3 Burger** 로봇에 **NVIDIA Jetson Orin Nano (8GB/16GB)**를 SBC로 탑재하고,<br> **ROS2 Humble Hawksbill** 환경에서 최종 프로젝트까지 완성하는 것을 목표로 합니다.
 
 | 항목 | 내용 |
 |------|------|
